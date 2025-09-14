@@ -3,6 +3,8 @@
 This repo is a **demo pipeline** that stitches together a GPU-accelerated data path, basic ML workflows, and a minimal deployment.  
 The goal was to make different systems “talk” to each other while documenting **pitfalls, fixes, and trade-offs** along the way.  
 
+<img width="639" height="638" alt="image" src="https://github.com/user-attachments/assets/3d58b628-ab25-4822-8265-07680b209236" />
+
 ---
 
 ## 🚀 Features
